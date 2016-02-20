@@ -140,12 +140,12 @@ var SampleApp = function() {
      */
     self.start = function() {
         //  Start the app on the specific interface (and port).
-        /*
+        
         self.app.listen(self.port, self.ipaddress, function() {
             console.log('%s: Node server started on %s:%d ...',
                         Date(Date.now() ), self.ipaddress, self.port);
-        });*/
-        self.app.listen(process.env.PORT, process.env.IP)
+        });
+        //self.app.listen(process.env.PORT, process.env.IP)
     };
 
 };   /*  Sample Application.  */
