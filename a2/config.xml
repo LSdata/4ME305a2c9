@@ -1,11 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.helloworld" version="1.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Hello World</name>
+<widget id="com.phonegap.a2" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>A2</name>
     <description>
-        A blank PhoneGap app.
+        Assessing the Phonegap mobile framework
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="ls223aa@student.lnu.se">
+        LNU student 
+    </author>
+      <author email="camilla.bengtsson@gmail.com ">
+        LNU student 
     </author>
     <content src="index.html" />
     <access origin="*" />
